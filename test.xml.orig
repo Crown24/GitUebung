@@ -1,9 +1,9 @@
 Dies ist ein Test,
 
 
-
+<<<<<<< HEAD
 
 Dieser Text wurde lokal in der Bash geschrieben und dient dazu einen Konflikt auszulösen
-
+=======
 Dieser Text wurde online von GitHub aus geschrieben
-
+>>>>>>> origin/main
