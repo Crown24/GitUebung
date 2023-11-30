@@ -1,26 +1,9 @@
 Dies ist ein Test,
 
 
-
-
-Dieser Text wurde lokal in der Bash geschrieben und dient dazu einen Konflikt auszulösen
-
-Dieser Text wurde online von GitHub aus geschrieben
-
 <<<<<<< HEAD
 
-
-
-
-
-
-Text noch einmal lokal geschrieben
-
-Text online geschrieben
-
-
-
-
-Dieser Text wurde in dem dev branch geschrieben
+Dieser Text wurde lokal in der Bash geschrieben und dient dazu einen Konflikt auszulösen
 =======
->>>>>>> parent of 561b7f4 (Update test.xml online)
+Dieser Text wurde online von GitHub aus geschrieben
+>>>>>>> origin/main
