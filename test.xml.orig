@@ -1,9 +1,26 @@
 Dies ist ein Test,
 
 
-<<<<<<< HEAD
+
 
 Dieser Text wurde lokal in der Bash geschrieben und dient dazu einen Konflikt auszulösen
-=======
+
 Dieser Text wurde online von GitHub aus geschrieben
->>>>>>> origin/main
+
+<<<<<<< HEAD
+
+
+
+
+
+
+Text noch einmal lokal geschrieben
+
+Text online geschrieben
+
+
+
+
+Dieser Text wurde in dem dev branch geschrieben
+=======
+>>>>>>> parent of 561b7f4 (Update test.xml online)
