@@ -1,9 +1,36 @@
 Dies ist ein Test,
 
 
-<<<<<<< HEAD
+
 
 Dieser Text wurde lokal in der Bash geschrieben und dient dazu einen Konflikt auszulösen
-=======
+
 Dieser Text wurde online von GitHub aus geschrieben
->>>>>>> origin/main
+
+
+
+
+
+
+
+Text noch einmal lokal geschrieben
+
+Text online geschrieben
+
+
+
+
+Dieser Text wurde in dem dev branch geschrieben
+
+
+
+
+
+<<<<<<< HEAD
+Test1
+Test2
+=======
+
+>>>>>>> parent of ff4df29 (Text Test1)
+
+
